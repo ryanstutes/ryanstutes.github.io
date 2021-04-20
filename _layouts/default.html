@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/skeleton.css">
+        <link rel="icon" type="image/png" href="images/rs.png">
+
+        <meta charset="utf-8">
+        <title>{{ page.title }} - Ryan Stutes</title>
+        <meta name="description" content="{{ page.title }} page for Ryan Stutesman's personal website.">
+        <meta name="author" content="Ryan Stutesman">
+    </head>
+    <body class="has-docked-nav">
+        <nav class="navbar">
+            <div class="container">
+                <ul class="navbar-list">
+                    <li class="navbar-item"><a class="navbar-link" href="/">Home</a></li>
+                    <li class="navbar-item"><a class="navbar-link" href="/experience">Experience</a></li>
+                    <!-- <li class="navbar-item"><a class="navbar-link" href="/blog">Blog</a></li> -->
+                    <li class="navbar-item"><a class="navbar-link" href="/contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container main-body">
+            {{ content }}
+        </div>
+    </body>
+</html>
