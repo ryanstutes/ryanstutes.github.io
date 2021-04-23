@@ -3,14 +3,14 @@ title: Experience
 layout: default
 ---
 
-# Detailed Work Experience
+##### Detailed Work Experience
 
 ---
 
 **Past few years (Wyzant)**
-## Engineering Manager
+#### Engineering Manager
 
-#### Responsibilities
+**Responsibilities**
 
 * Work with product, marketing, and SEO to break down and prioritize a variety of projects
 * Ensure the right people were responsible for/contributing to a given project, keeping both business and direct reports’ personal goals in mind
@@ -19,7 +19,7 @@ layout: default
 * Regularly meet with other engineering managers to ensure consistency across teams and set org-wide engineering goals
 * Continued full-stack engineer responsibilities (at reduced capacity)
 
-#### Notable Projects
+**Projects**
 
 * Dramatically improved page load times for all of our SEO-facing pages in preparation for [Google Core Web vitals release](https://developers.google.com/search/blog/2020/11/timing-for-page-experience)
     * Improved performance by deferring various non-critical assets, cleaning up messy DB (read: `ActiveRecord`) queries, and auditing JS and CSS to remove unused code
@@ -32,9 +32,9 @@ layout: default
     * Work with Marketing to understand Wyzant’s legacy partner program
     * Suggest and execute on cleanup to the years-old code and infrastructure around these programs
 
-## Team Lead
+#### Team Lead
 
-#### Responsibilities
+**Responsibilities**
 
 * Improved our sprint processes by creating a variety of project and task card templates, creating more organized weekly sprint practices
     * Note: I am a big fan of using an [experiment-driven approach](https://leaddev.com/agile-other-ways-working/leading-your-engineering-team-experiments-not-processes) to these types of changes
@@ -42,7 +42,7 @@ layout: default
 * Keep stakeholders in the loop on project statuses; often needing to talk about technical topics to non-technical people
 * Maintain full-stack engineer responsibilities below
 
-#### Projects
+**Projects**
 * Ask An Expert video answers
     * Propose an architecture that will allow tutors to add video answers to questions on Wyzant’s Ask An Expert platform (think Yahoo! Answers, but for Wyzant subjects). These videos get uploaded to YouTube and embedded in Ask An Expert answers
     * Ensure to make use of already-existing Wyzant services as much as possible in this architecture, coordinating with service owners to discuss possible changes needed to support this functionality
@@ -53,9 +53,9 @@ layout: default
     * Propose, build, and maintain an ETL process to manage which of our SEO landing pages are “live” at a given time
     * We had 2.5 million landing page records in a MySQL DB table, but only ~200k of the pages were considered valuable enough to be used in production
 
-## Full-stack Engineer
+#### Full-stack Engineer
 
-#### Responsibilities
+**Responsibilities**
 * Build and maintain various parts of the Wyzant platform, ensuring quality by working closely with QA, unit testing, and monitoring
 * Truly full-stack. Worked on everything from Rails controllers to ElasticSearch w/ Golang to Vue.js apps
     * Landing pages: Go backend, rails frontend
@@ -65,19 +65,20 @@ layout: default
 * Give task-based status updates to team leads, managers, or product managers
 * Begin learning how to scope out larger projects and write quality cards and acceptance criteria
 
-#### Projects
+**Projects**
 * Tutor search API - Scope out and rebuild Wyzant’s Tutor Search application in Go with ElasticSearch
 * Online tool walkthrough - Create new walkthrough in Vue.js
 * Ask An Expert launch - help finish building Wyzant’s Ask An Expert platform and push it to production
 
-### Other Wyzant responsibilities
+#### Other Wyzant responsibilities
+
 * Create and lead an internal social and culture committee to improve employee recognition and promote cross-team socialization
 * Assist with interviewing, recruiting, and onboarding processes for engineering and several other teams
 
 
 ---
 
-**3+ years ago (various companies)**
+##### Less recent expierence (various companies)
 
 * Native iOS development; Swift and Objective-C
     * Usually focused on UI
