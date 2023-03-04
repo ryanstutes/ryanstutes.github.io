@@ -7,7 +7,27 @@ layout: default
 
 ---
 
-**Past few years (Wyzant)**
+**Past two years (GameChanger)**
+#### Seniot Engineering Manager
+
+**Responsibilities**
+
+* TODO
+
+**Projects**
+
+* Oversaw a project to migrate $1.5MM worh of recurring subscriptions from legacy app to new app.
+    * Using a Beta API from a 3rd party subscriptions provider and short PDF with early documentation, my team was able to migrate most of our active subscriptions from one app to another.
+    * This was phase 0 of the sunset plan for our legacy app. Without these customers being auto-migrated, a lot of this money would have been lost.
+* Promoted one of my Senior Engineers to EM and moved to a new team, while continuing to oversee their team.
+    * This gave me a great experience in managing an EM and building skip-level relationships.
+    * Being a full-time EM on my new team while managing another team from a director level was a good challenge in time management.
+* Executed on several org-wide initiatives
+    * Revamped our hackdays into quarterly three-day hackathons. We've seen a sustained energy and successful projects from this for over a year and counting.
+    * Lead two EMs and several engineers from across the org to redo our technical interview process for mobile engineers.
+    * Implemented a quarterly engineering pulse survey to get a feel for where the eng leadership team might need to focus our efforts.
+  
+**5 years before GameChanger (Wyzant)**
 #### Engineering Manager
 
 **Responsibilities**
