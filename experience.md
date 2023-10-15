@@ -7,25 +7,40 @@ layout: default
 
 ---
 
-**Past two years (GameChanger)**
-#### Seniot Engineering Manager
+**Past 2.5 years (GameChanger)**
+#### Senior Engineering Manager
 
 **Responsibilities**
 
-* TODO
+* Built and led two high-performing cross-functional, multi-platform teams.
+* Worked closely with dedicated Product Manager and Product Designer to run projects week-to-week and plan out quarterly and yearly roadmaps.
+* Pushed my teams and my engineers to adopt an MVP mindset so that we could ship small pieces of work and monitor their impact before continuing to invest.
+* Hired a variety of engineers (iOS, Android, Backend, Full-stack, platform teams) over my tenure. The engineering org has grown from 20 to 65 in my time.
+* Work with platform teams to ensure our system(s) scaled with the rapid growth of users.
 
-**Projects**
+**Projects and Accomplishments**
 
+* Worked on many parts of the stack and product. From subscriptions to video to integrating a 3rd party messaging app, I was able to get exposed to almost every piece of GC's system.
+* Took ownership of our automatic highlight clips infrastructure after initial MVP release. Worked with my engineers and platform team engineers to improve the scalability of the infrasctucture (APIs, modeling, and DB) to handle the generation of 100M+ highlight clips _and_ easily support clips for a variety of sports.
+  * Note: most of this improvement work was able to be slotted into feature development projects, rather than needing to set aside specific engineering time for it.
 * Oversaw a project to migrate $1.5MM worh of recurring subscriptions from legacy app to new app.
     * Using a Beta API from a 3rd party subscriptions provider and short PDF with early documentation, my team was able to migrate most of our active subscriptions from one app to another.
     * This was phase 0 of the sunset plan for our legacy app. Without these customers being auto-migrated, a lot of this money would have been lost.
+* Advocated for and owned a project that improved the visibility and usefulness of one of our best-converting features (highlight clips). This increased user engagement with highlight clips by 11x and increased subscriptions coming from highlight clips by 3x.
+* Oversaw a side-team that worked on shutting down GameChanger Classic (legacy app)
+  * Ran this team at the same time as my full-time team by ensuring some trusted individuals on my full-time team could own projects, run stand, etc. with little oversight
+  * Shut down features one-by-one by (carefully) working in legacy codebase
+  * Coordinate marketing campaigns to get users to move to the new GameChanger app
 * Promoted one of my Senior Engineers to EM and moved to a new team, while continuing to oversee their team.
-    * This gave me a great experience in managing an EM and building skip-level relationships.
-    * Being a full-time EM on my new team while managing another team from a director level was a good challenge in time management.
-* Executed on several org-wide initiatives
-    * Revamped our hackdays into quarterly three-day hackathons. We've seen a sustained energy and successful projects from this for over a year and counting.
-    * Lead two EMs and several engineers from across the org to redo our technical interview process for mobile engineers.
+    * This gave me a great experience in managing (and mentoring) an EM and building skip-level relationships.
+    * Really had to manage my time well being a full-time EM on my new team while managing another team from a director level.
+* Promoted the first staff-level Android engineer in the company and worked with them to sharpen their leadership and organization skills to increase their impact and effectiveness.
+* Executed on several org-wide initiatives:
+    * As I onboarded, I built out a technical onboarding process that would allow engineers and EMs onboard more easily. This process has gotten a lot of great feedback over the past two years and has been a critical tool to have during our scaling efforts.
+    * Revamped our monthly hack Friday into quarterly three-day hackathons. We've seen a sustained energy and successful projects from this for over a year and counting.
+    * Lead two EMs and several engineers from across the org to redo our technical interview process for mobile engineers. Reducing the amount of touchpoints in the interview process while maintianing a high bar.
     * Implemented a quarterly engineering pulse survey to get a feel for where the eng leadership team might need to focus our efforts.
+    * Worked with a couple of engineers to re-vamp our technical proposal process to increase cross-team engagement on technical proposals. This project came about after I noticed this gap – I was able to find a couple of engineers who also noticed this and were passionate about it, so I enabled them to tackle the issue with my support and direction. We saw an incredible increase in the number of proposals opened and the amount of engagement each of them recieved with the new process.
   
 **5 years before GameChanger (Wyzant)**
 #### Engineering Manager
