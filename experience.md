@@ -13,7 +13,7 @@ layout: default
 **Responsibilities**
 
 * Built and led two high-performing cross-functional, multi-platform teams.
-* Worked closely with dedicated Product Manager and Product Designer to run projects week-to-week and plan out quarterly and yearly roadmaps.
+* Worked closely with a dedicated Product Manager and Product Designer to run projects week-to-week and plan out quarterly and yearly roadmaps.
 * Pushed my teams and my engineers to adopt an MVP mindset so that we could ship small pieces of work and monitor their impact before continuing to invest.
 * Work with platform teams to ensure our system(s) scaled with the rapid growth of users.
 
@@ -22,39 +22,39 @@ layout: default
 As a senior EM at GameChanger, my ownership areas changed as the company grew and our focus areas changed. I've broken this section down by ownership area.
 
 * **Video and Clips**
-  * Took ownership of our automatic highlight clips infrastructure after initial MVP release. Worked with my engineers and platform team engineers to improve the scalability of the infrasctucture (APIs, modeling, and DB) to handle the generation of 200MM+ highlight clips _and_ easily support clips for a variety of sports.
+  * Took ownership of our automatic highlight clips infrastructure after the initial MVP release. Worked with my engineers and platform team engineers to improve the scalability of the infrastructure (APIs, modeling, and DB) to handle the generation of 200MM+ highlight clips _and_ easily support clips for a variety of sports.
     * Note: I was able to slot most of this improvement into feature development projects, rather than needing to set aside specific engineering time for it.
-  * Moved video and clip data from main DB into its own DB; critical effort for scaling.
+  * Moved video and clip data from the main DB into its own DB; critical effort for scaling.
   * Advocated for and owned a project that improved the visibility and usefulness of one of our best-converting features (highlight clips). This increased user engagement with highlight clips by 11x and increased subscriptions coming from highlight clips by 3x.
 
 
 * **Subscriptions**
     * Owned a project for seamlessly raising prices on Apple and Google.
-    * Oversaw a project to migrate $1.5MM worh of recurring subscriptions from legacy app to new app.
+    * Oversaw a project to migrate $1.5MM worth of recurring subscriptions from the legacy app to the new app.
       * This was phase 0 of the sunset plan for our legacy app. Without these customers being auto-migrated, a lot of this money would have been lost.
 
 * **Legacy app**
-  * Created and owned a side-team that worked on shutting down GameChanger Classic (legacy app).
+  * Created and owned a side team that worked on shutting down GameChanger Classic (legacy app).
   * Ran this team at the same time as my full-time team by ensuring some trusted individuals on my full-time team could own projects, run stand, etc. with little oversight.
-  * Shut down features one-by-one by (carefully) working in legacy codebase.
+  * Shut down features one by one by (carefully) working in the legacy codebase.
   * Coordinate marketing campaigns to get users to move to the new GameChanger app.
 
 
 **Promotions**
 
 * Promoted one of my Senior Engineers to EM and moved to a new team, while continuing to oversee their team.
-    * This gave me a great experience in managing (and mentoring) an EM and building skip-level relationships.
-    * Really had to manage my time well being a full-time EM on my new team while managing another team from a director level.
+    * This gave me great experience in managing (and mentoring) an EM and building skip-level relationships.
+    *  Had to manage my time well being a full-time EM on my new team while managing another team from a director level.
 * Promoted the first staff-level Android engineer in the company and worked with them to sharpen their leadership and organization skills to increase their impact and effectiveness.
   
 **Force Multiplication**
 
-* Lead two EMs and several engineers from across the org to redo our technical interview process for mobile engineers. Reducing the amount of touchpoints in the interview process while maintianing a high bar.
-  * Modified our interview process for staff level roles.
-* As I onboarded, I built out a technical onboarding process that would allow engineers and EMs onboard more easily. This process has gotten a lot of great feedback over the past two years and has been a critical tool to have during our scaling efforts. I owned and iterated on this through my entire tenure here.
-* Revamped our monthly hack Friday into quarterly three-day hackathons. We've seen a sustained energy and successful projects from this ever since.
-* Worked with a couple of engineers to re-vamp our technical proposal process to increase cross-team engagement on technical proposals. This project came about after I noticed this gap – I was able to find a couple of engineers who also noticed this and were passionate about it, so I enabled them to tackle the issue with my support and direction. We saw an incredible increase in the number of proposals opened and the amount of engagement each of them recieved with the new process.
-* Implemented a quarterly engineering pulse survey to get a feel for where the eng leadership team might need to focus our efforts.
+* Led two EMs and several engineers from across the org to redo our technical interview process for mobile engineers. Reducing the amount of touchpoints in the interview process while maintaining a high bar.
+  * Modified our interview process for staff-level roles.
+* As I onboarded, I built out a technical onboarding process that would allow engineers and EMs to onboard more easily. This process has gotten a lot of great feedback over the past two years and has been a critical tool to have during our scaling efforts. I owned and iterated on this throughout my entire tenure here.
+* Revamped our monthly hack Friday into quarterly three-day hackathons. We've seen sustained energy and successful projects from this ever since.
+* Worked with a couple of engineers to re-vamp our technical proposal process to increase cross-team engagement on technical proposals. This project came about after I noticed this gap – I was able to find a couple of engineers who also noticed this and were passionate about it, so I enabled them to tackle the issue with my support and direction. We saw an incredible increase in the number of proposals opened and the amount of engagement each of them received with the new process.
+* Implemented a quarterly engineering pulse survey to get a feel for where the engineering leadership team might need to focus our efforts.
 
 **5 years before GameChanger (Wyzant)**
 #### Engineering Manager
