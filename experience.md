@@ -6,8 +6,27 @@ layout: default
 ##### Detailed Work Experience
 
 ---
+**July 2024 - Now (Babylist)**
+#### Senior Engineering Manager
 
-**2021 - Now (GameChanger)**
+**Responsibilities**
+* Own Android app by managing three senior Android engineers, owning the Android product roadmap, and driving technical investments and process improvements to increase app quality and usability.
+* Own Shop web team by managing six web and iOS engineers, owning the Shopping product roadmap and coaching my web Staff engineer to own the technical roadmap to align with product.
+
+**Ownership and Accomplishments**
+* Drove codebase and process improvements that led to increasing crash-free user rate from 97% to 99.5% on Android in the first month on board.
+* Quickly established myself a strong leader of Android and of Shop teams.
+   * Gained trust and built relationships via 1:1s, celebrating wins, having fun (via game night or even in our typical meetings), and getting some stuff done myself.
+   * Focused on listening a lot in my first month. It was clear Shop team needed some changes but I wanted to sit back and think about it and take in as much context as I could before collaborating with them to move toward a more organized, safe, and impactful team.
+* Worked with the Director of Product to re-align the Shop team toward a new vision for 2025. I ensured that there was clarity in why we were making this pivot and found interesting product, design, and engineering challenges in the coming year to get everyone on the team excited about the pivot.
+
+**Force Multiplication**
+* Worked with Staff Site Reliabliity Engineer on adjusting our incident response approach and tooling to promote more involvement in site events, qicker resolution times, and better communication with non-technical stakeholders.
+* Led the rollout of Notion for our company intranet. Created onboarding documentation and outlined rules of what things do or do not belong in Notion.
+   * Led two PMs and one designer on deprecating a tool that only those teams used, moving the functionality they needed over into Notion.
+   * Too early to say yet, but I believe this project will greatly improve onboarding speed for new hires. Without Notion, documentation was very scattered, hard to find, and not maintained. Notion will make documentation more discoverable and easier to maintain.
+
+**June 2021 - June 2024**
 #### Senior Engineering Manager
 
 **Responsibilities**
@@ -35,22 +54,23 @@ As a senior EM at GameChanger, my ownership areas changed as the company grew an
 
 * **Legacy app**
   * Created and owned a side team that worked on shutting down GameChanger Classic (legacy app).
-  * Ran this team at the same time as my full-time team by ensuring some trusted individuals on my full-time team could own projects, run stand, etc. with little oversight.
+  * Ran this team at the same time as my full-time team by ensuring some trusted individuals on my full-time team could own projects, run meetings, etc. with little oversight.
   * Shut down features one by one by (carefully) working in the legacy codebase.
   * Coordinate marketing campaigns to get users to move to the new GameChanger app.
 
 
-**Promotions**
+**Building the team**
 
-* Promoted one of my Senior Engineers to EM and moved to a new team, while continuing to oversee their team.
-    * This gave me great experience in managing (and mentoring) an EM and building skip-level relationships.
-    *  Had to manage my time well being a full-time EM on my new team while managing another team from a director level.
-* Promoted the first staff-level Android engineer in the company and worked with them to sharpen their leadership and organization skills to increase their impact and effectiveness.
+* Promoted one of my Senior Engineers to EM; managed and coached them while also taking over another team of 1 EM and 6 engineers.
+* Promoted the first staff Android engineer in the company and worked with them to sharpen their leadership and organization skills to increase their impact and effectiveness.
+* Heavily involved in interview processes for a variety of EM, engineer, product manager, and designer roles across the tech org. Helped calibrate for new roles like Technical PM and Staff Mobile.
+* Directly hired 10 engineers in my three years there with a 100% acceptance rate.
+* Worked with Director of Engineering on building a calibration and promotion process for consistency across the engineering org.
   
 **Force Multiplication**
 
 * Led two EMs and several engineers from across the org to redo our technical interview process for mobile engineers. Reducing the amount of touchpoints in the interview process while maintaining a high bar.
-  * Modified our interview process for staff-level roles.
+  * Modified our interview process to better asses for staff-level roles.
 * As I onboarded, I built out a technical onboarding process that would allow engineers and EMs to onboard more easily. This process has gotten a lot of great feedback over the past two years and has been a critical tool to have during our scaling efforts. I owned and iterated on this throughout my entire tenure here.
 * Revamped our monthly hack Friday into quarterly three-day hackathons. We've seen sustained energy and successful projects from this ever since.
 * Worked with a couple of engineers to re-vamp our technical proposal process to increase cross-team engagement on technical proposals. This project came about after I noticed this gap – I was able to find a couple of engineers who also noticed this and were passionate about it, so I enabled them to tackle the issue with my support and direction. We saw an incredible increase in the number of proposals opened and the amount of engagement each of them received with the new process.
