@@ -4,18 +4,19 @@
 
 **Responsibilities**
 
-* Own four engineering domains — Commerce, Core Registry, NUX, and Mobile (iOS, Android, and web) — after absorbing two additional teams when a fellow manager departed in 2026. Onboarding and coaching the Commerce EM I brought in to take that team over.  
-* Stay hands-on alongside managing: I regularly ship code myself across iOS, Android, and web to stay close to the codebase and unblock my teams when it matters most.
+* Started at Babylist managing Commerce and Android, then grew my scope over my first 18 months to own engineering across the full customer journey — from signup and onboarding, to maintaining a registry and buying off of one — plus Mobile (iOS, Android, and web).  
+* Absorbed two additional teams in 2026 when a fellow manager departed; onboarded and am now coaching the EM I brought in to take Commerce over.  
+* Stay hands-on alongside managing: I regularly ship code myself across iOS, Android, and web to stay close to the codebase, keep up with how AI is changing day-to-day development, and help solve the problems that matter most.
 
 **Primary Accomplishments**
 
 * Drove codebase and process improvements that led to increasing crash-free user rate from 97% to 99.5% on Android in the first month on board.  
 * Led the Commerce team to improve team organization and collaboration, ensuring the team could deliver 90% of projects on time in my first 6 months; a huge improvement up from 15%.  
 * Worked with the Director of Product to re-align the Commerce team on a new product vision and roadmap for 2025\. I ensured that there was clarity in why we were making this pivot and found interesting product, design, and engineering challenges in the coming year to get everyone on the team excited about our new path.  
-* Championed Shipping Intent in Cart from insight to launch: identified that gift givers had no way to confirm a shipping destination before checkout, pushed it onto the roadmap, and designed the test. Results: +14% total revenue, +20% BL Shop revenue, +17% merch margin, all statistically significant.  
+* Championed Shipping Intent in Cart from insight to launch: identified that gift givers had no way to confirm a shipping destination before checkout — a trust gap that left people unsure their gift would end up in the right hands — pushed it onto the roadmap, and designed the test. Results: +14% total revenue, +20% BL Shop revenue, +17% merch margin, all statistically significant.  
 * Kept Commerce delivering on time (\>80%) through a mid-cycle staffing gap by stepping closer to the team and coaching engineers to fill it — the team didn't miss a beat, and cross-functional partners' confidence in our execution went up.  
 * Launched the reusable registry discount, my first large project at Babylist — worked with Product, Finance, and Data to design a beta-group test strategy that became our standardized discount offering, with lasting impact on financial performance.  
-* Cut Commerce's dev-support load in half by building a triage dashboard and automating our most common pain points, freeing the team to spend more time on roadmap work.
+* Cut Commerce's day-to-day operational support load in half by building a triage dashboard and automating our most common pain points, freeing the team to spend more time on roadmap work.
 
 **Mobile Platform Leadership**
 
@@ -28,15 +29,14 @@
 
 * Drove our first mobile AI adoption OKR, moving nearly every mobile engineer to daily AI usage, and built the supporting infrastructure: CLAUDE.md files and Datadog plugins across our iOS, Android, and web repos, an AI-focused mobile coding interview, and a PR analytics tool EMs use for calibration.  
 * Stayed hands-on to keep this credible: merged 70+ PRs across 11 repos in a single half while managing four teams, including a scripted remediation that fixed over 2,000 broken registry items after an incident.  
-* Organized and led our annual company-wide Hackathon (~100 people), reframing it around using AI tools to improve daily work rather than just pitching ideas.  
-* Watched that leadership pay off directly: one engineer used the momentum from the hackathon to build an AI tool that cut a week of manual work down to days, and agentic AI is now a standard part of how the team ships.
+* Organized and led two company-wide Hackathons (~100 people each) since taking ownership of the event, reframing them around using AI tools to improve daily work rather than just pitching ideas, and proposed moving to a twice-a-year cadence.  
+* Built a structured pipeline to get our best hackathon projects into production, and watched that investment pay off directly: one engineer used the momentum from a hackathon to build an AI tool that cut a week of manual work down to days, and agentic AI is now a standard part of how the team ships.
 
 **Building the Team**
 
 * Coached a Staff engineer from struggling with planning and estimation into a trusted technical leader who now ships high-quality work, meets deadlines, and leads on AI adoption.  
 * Grew another engineer from an implementer into someone trusted with complex, cross-functional ownership, expanding their scope while keeping the coaching tight enough that they never felt lost.  
 * Ran source-a-thons and refined interview loops for iOS and Staff SRE roles, directly contributing to closing key hires for the org.  
-* Onboarded and am actively coaching the EM I brought in to take over Commerce, setting 90-day expectations and a gradual transition plan.  
 * Proposed a mid-level engineering rotation program and a framework for evaluating EM readiness, both adopted org-wide.
 
 **Other Org-wide Impacts**
