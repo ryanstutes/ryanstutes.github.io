@@ -4,20 +4,50 @@
 
 **Responsibilities**
 
-* Own Android app by managing three senior Android engineers, owning the Android product roadmap, and driving technical investments and process improvements to increase app quality and usability.  
-* Own Commerce web and iOS team by managing seven, collaborating with Product and Design teams to build the Commerce product roadmap. Drove heavy collaboration with merchandising, registry-building, and design teams.
+* Started at Babylist managing Commerce and Android, then grew my scope over my first 18 months to own engineering across the full customer journey — from signup and onboarding, to maintaining a registry and buying off of one — plus Mobile (iOS, Android, and web).  
+* Absorbed two additional teams in 2026 when a fellow manager departed; onboarded and am now coaching the EM I brought in to take Commerce over.  
+* Stay hands-on alongside managing: I regularly ship code myself across iOS, Android, and web to stay close to the codebase, keep up with how AI is changing day-to-day development, and help solve the problems that matter most.
 
 **Primary Accomplishments**
 
 * Drove codebase and process improvements that led to increasing crash-free user rate from 97% to 99.5% on Android in the first month on board.  
 * Led the Commerce team to improve team organization and collaboration, ensuring the team could deliver 90% of projects on time in my first 6 months; a huge improvement up from 15%.  
-* Worked with the Director of Product to re-align the Commerce team on a new product vision and roadmap for 2025\. I ensured that there was clarity in why we were making this pivot and found interesting product, design, and engineering challenges in the coming year to get everyone on the team excited about our new path.
+* Worked with the Director of Product to re-align the Commerce team on a new product vision and roadmap for 2025\. I ensured that there was clarity in why we were making this pivot and found interesting product, design, and engineering challenges in the coming year to get everyone on the team excited about our new path.  
+* Championed Shipping Intent in Cart from insight to launch: identified that gift givers had no way to confirm a shipping destination before checkout — a trust gap that left people unsure their gift would end up in the right hands — pushed it onto the roadmap, and designed the test. Results: +14% total revenue, +20% BL Shop revenue, +17% merch margin, all statistically significant.  
+* Kept Commerce delivering on time (\>80%) through a mid-cycle staffing gap by stepping closer to the team and coaching engineers to fill it — the team didn't miss a beat, and cross-functional partners' confidence in our execution went up.  
+* Launched the reusable registry discount, my first large project at Babylist — worked with Product, Finance, and Data to design a beta-group test strategy that became our standardized discount offering, with lasting impact on financial performance.  
+* Cut Commerce's day-to-day operational support load in half by building a triage dashboard and automating our most common pain points, freeing the team to spend more time on roadmap work.
+
+**Mobile Platform Leadership**
+
+* Took Android to full feature parity with iOS, then designed and secured buy-in (VP Eng, EMs, and PMs) on a horizontal ownership model that unifies both platforms under shared release, testing, and platform stewardship processes.  
+* Authored an iOS architecture modernization proposal backed by a controlled experiment showing iOS took 2.3x longer than web for AI coding tools to navigate, and kicked off a SwiftUI working group modeled on Android's earlier Circuit/Compose migration.  
+* Started a monthly Mobile Developer Forum to close the gap between our Android and iOS teams, giving both a shared home to talk AI tools, testing, and design.  
+* Own mobile platform governance end-to-end: App Store and Google Play account migrations, CI/CD vendor evaluation, and the release process both platforms run on today.
+
+**AI Enablement**
+
+* Drove our first mobile AI adoption OKR, moving nearly every mobile engineer to daily AI usage, and built the supporting infrastructure: CLAUDE.md files and Datadog plugins across our iOS, Android, and web repos, an AI-focused mobile coding interview, and a PR analytics tool EMs use for calibration.  
+* Stayed hands-on to keep this credible: merged 70+ PRs across 11 repos in a single half while managing four teams, including a scripted remediation that fixed over 2,000 broken registry items after an incident.  
+* Organized and led two company-wide Hackathons (~100 people each) since taking ownership of the event, reframing them around using AI tools to improve daily work rather than just pitching ideas, and proposed moving to a twice-a-year cadence.  
+* Built a structured pipeline to get our best hackathon projects into production, and watched that investment pay off directly: one engineer used the momentum from a hackathon to build an AI tool that cut a week of manual work down to days, and agentic AI is now a standard part of how the team ships.
+
+**Building the Team**
+
+* Coached a Staff engineer from struggling with planning and estimation into a trusted technical leader who now ships high-quality work, meets deadlines, and leads on AI adoption.  
+* Grew another engineer from an implementer into someone trusted with complex, cross-functional ownership, expanding their scope while keeping the coaching tight enough that they never felt lost.  
+* Ran source-a-thons and refined interview loops for iOS and Staff SRE roles, directly contributing to closing key hires for the org.  
+* Proposed a mid-level engineering rotation program and a framework for evaluating EM readiness, both adopted org-wide.
 
 **Other Org-wide Impacts**
 
 * Worked with Staff Site Reliability Engineer on adjusting our incident response approach and tooling to promote more involvement in site events, quicker resolution times, and better communication with non-technical stakeholders.  
 * Led the rollout of Notion for our company intranet. Created onboarding documentation and guidelines on how and when to use Notion. Continued pushing teams to move and create documentation in Notion to improve centralization, which was a big pain point for our growing org.  
-* Created standardized release processes for our iOS and Android teams. We were releasing on an as-needed basis, resulting in long wait times for some bug fixes or wasted engineering time when we released 3 times per week. This allowed us to create a release and monitoring rotation to share the release management load across the team and ensure the iOS and Android apps go out on an easy-to-follow weekly schedule.
+* Created standardized release processes for our iOS and Android teams, moving us from ad hoc releases to a shared rotation with an easy-to-follow weekly schedule.  
+* Created and fully own Squad Shuffle, a program that rotates engineers across teams to broaden experience and strengthen career growth; established it as an ongoing mechanism for 2026.  
+* Co-organized the 2026 company offsite for 65+ people in Chicago, owning the bulk of planning and logistics alongside our Product Director.  
+* Built and ran exercises for our engineering org's Builder Finance Curriculum, closing the gap between engineering decisions and business economics.  
+* Built the monitoring and mitigation playbook that got engineering and Site Merch aligned for BFCM 2024, one of our highest-stakes weeks of the year.
 
 #### ---
 
@@ -38,36 +68,30 @@ As a senior EM at GameChanger, my ownership areas changed as the company grew an
 
 * **Video and Clips**  
   * Took ownership of our automatic highlight clips infrastructure after the initial MVP release. Worked with my engineers and platform team engineers to improve the scalability of the infrastructure (APIs, modeling, and DB) to handle the generation of 200MM+ highlight clips *and* easily support clips for a variety of sports.  
-    * Note: I was able to slot most of this improvement into feature development projects, rather than needing to set aside specific engineering time for it.  
   * Moved video and clip data from the main DB into its own DB; critical effort for scaling.  
   * Advocated for and owned a project that improved the visibility and usefulness of one of our best-converting features (highlight clips). This increased user engagement with highlight clips by 11x and increased subscriptions coming from highlight clips by 3x.  
 * **Subscriptions**  
   * Owned a project for seamlessly raising prices on recurring subscriptions via App Store and Google Play.  
-  * Oversaw a project to migrate $1.5MM worth of recurring subscriptions from the legacy app to the new app.  
-    * This was phase 0 of the sunset plan for our legacy app. Without these customers being auto-migrated, a lot of this money would have been lost.  
+  * Oversaw a project to migrate $1.5MM worth of recurring subscriptions from the legacy app to the new app — phase 0 of the sunset plan; without auto-migrating these customers, a lot of this money would have been lost.  
 * **Legacy app**  
-  * Created and owned a side team that worked on shutting down GameChanger Classic (legacy app).  
-  * Owned the iOS development of a feature in our new app that allowed users to import their teams from the legacy app. Worked closely with backend and Android to design and implement this.  
-  * Ran this team at the same time as my full-time team by ensuring some trusted individuals on my full-time team could own projects, run meetings, etc. with little oversight.  
-  * Shut down features one by one by (carefully) working in the legacy codebase.  
-  * Coordinate marketing campaigns to get users to move to the new GameChanger app.
+  * Created and owned a side team that worked on shutting down GameChanger Classic (legacy app), running it alongside my full-time team by empowering trusted engineers to own projects and run meetings with little oversight.  
+  * Owned the iOS development of a feature that let users import their teams from the legacy app, working closely with backend and Android to design and implement it.  
+  * Shut down legacy features one by one, working carefully in the old codebase, and coordinated marketing campaigns to get users to move to the new app.
 
 **Building the team**
 
 * Promoted one of my Senior Engineers to EM; managed and coached them while also taking over another team of 1 EM and 6 engineers.  
 * Promoted the first staff Android engineer in the company and worked with them to sharpen their leadership and organization skills to increase their impact and effectiveness.  
-* Heavily involved in interview processes for a variety of EM, engineer, product manager, and designer roles across the tech org. Helped calibrate for new roles like Technical PM and Staff Mobile.  
-* Directly hired 10 engineers in my three years there with a 100% acceptance rate.  
+* Heavily involved in interview processes across the tech org — helped calibrate for new roles like Technical PM and Staff Mobile, and directly hired 10 engineers in my three years there with a 100% acceptance rate.  
 * Worked with the Director of Engineering on building a calibration and promotion process for consistency across the engineering org.
 
 **Other Org-wide Impacts**
 
-* Led two EMs and several engineers from across the org to redo our technical interview process for mobile engineers. Reducing the amount of touchpoints in the interview process while maintaining a high bar.  
-  * Modified our interview process to better assess for staff-level roles.  
-* As I onboarded, I built out a technical onboarding process that would allow engineers and EMs to onboard more easily. This process has gotten a lot of great feedback over the past two years and has been a critical tool to have during our scaling efforts. I owned and iterated on this throughout my entire tenure here.  
-* Revamped our monthly hack Friday into quarterly three-day hackathons. We’ve seen sustained energy and successful projects from this ever since.  
-* Worked with a couple of engineers to revamp our technical proposal process to increase cross-team engagement on technical proposals. This project came about after I noticed this gap – I was able to find a couple of engineers who also noticed this and were passionate about it, so I enabled them to tackle the issue with my support and direction. We saw an incredible increase in the number of proposals opened and the amount of engagement each of them received with the new process.  
-* Implemented a quarterly engineering pulse survey to get a feel for where the engineering leadership team might need to focus our efforts.
+* Led two EMs and several engineers from across the org to redo our technical interview process for mobile engineers — reducing touchpoints while maintaining a high bar and better assessing for staff-level roles.  
+* Built out a technical onboarding process that let engineers and EMs onboard more easily; owned and iterated on it throughout my tenure, and it became a critical tool during our scaling efforts.  
+* Revamped our monthly hack Friday into quarterly three-day hackathons, which produced sustained energy and successful projects ever since.  
+* Enabled a couple of passionate engineers to revamp our technical proposal process after I noticed low cross-team engagement — proposal volume and engagement increased dramatically as a result.  
+* Implemented a quarterly engineering pulse survey to focus the engineering leadership team’s efforts.
 
 ---
 
@@ -79,61 +103,37 @@ As a senior EM at GameChanger, my ownership areas changed as the company grew an
 
 **Responsibilities**
 
-* Work with product, marketing, and SEO to break down and prioritize a variety of projects  
-* Ensure the right people were responsible for/contributing to a given project, keeping both business and direct reports’ personal goals in mind  
-* Help direct reports (and everyone I worked with) learn and grow personally and professionally  
-* Cultivate an environment of open, honest, and circular communication and feedback  
-* Regularly meet with other engineering managers to ensure consistency across teams and set org-wide engineering goals  
-* Continued full-stack engineer responsibilities (at reduced capacity)
+* Worked with product, marketing, and SEO to break down and prioritize projects, keeping both business goals and direct reports’ personal goals in mind.  
+* Cultivated an environment of open, honest feedback, met regularly with other EMs to keep teams consistent and set org-wide goals, and helped direct reports grow personally and professionally.  
+* Continued full-stack engineer responsibilities at reduced capacity.
 
 **Projects**
 
-* Dramatically improved page load times for all of our SEO-facing pages in preparation for [Google Core Web vitals release](https://developers.google.com/search/blog/2020/11/timing-for-page-experience)  
-  * Improved performance by deferring various non-critical assets, cleaning up messy DB (read: ActiveRecord) queries, and auditing JS and CSS to remove unused code  
-  * We also added CI tooling so that future developers get failing builds on PRs if they cause performance regressions  
-* Top of the funnel A/B testing that increased new user conversion  
-  * Set ourselves up to be able to quickly test changes to Wyzant’s onboarding flow  
-  * A/B test setup: Rails app uses a gem (flipper) and sends the user to flow A or flow B. Each flow was a separate copy of the base Vue app, with or without the changes we wanted to test  
-  * Work with the data team to analyze AB test results  
-* Wyzant partner/affiliate program changes  
-  * Work with Marketing to understand Wyzant’s legacy partner program  
-  * Suggest and execute on cleanup to the years-old code and infrastructure around these programs
+* Dramatically improved page load times for all of our SEO-facing pages ahead of [Google’s Core Web Vitals release](https://developers.google.com/search/blog/2020/11/timing-for-page-experience) by deferring non-critical assets, cleaning up messy DB queries, and adding CI tooling to catch performance regressions on PRs.  
+* Set up top-of-funnel A/B testing on Wyzant’s onboarding flow (Rails \+ Flipper routing users to separate Vue app copies) that increased new user conversion, and partnered with the data team to analyze results.  
+* Worked with Marketing to understand Wyzant’s legacy partner/affiliate program and cleaned up the years-old code and infrastructure behind it.
 
 #### Team Lead
 
 **Responsibilities**
 
-* Improved our sprint processes by creating a variety of project and task card templates, creating more organized weekly sprint practices  
-  * Note: I am a big fan of using an [experiment-driven approach](https://leaddev.com/agile-other-ways-working/leading-your-engineering-team-experiments-not-processes) to these types of changes  
-* Work closely with product to understand and break down requirements in order to put together project plans  
-* Keep stakeholders in the loop on project statuses; ensuring smooth communication in regards to technical topics with non-technical people  
-* Maintain full-stack engineer responsibilities below
+* Improved our sprint processes with new project and task card templates, using an [experiment-driven approach](https://leaddev.com/agile-other-ways-working/leading-your-engineering-team-experiments-not-processes) to these changes.  
+* Worked closely with product to break down requirements into project plans, and kept stakeholders in the loop with clear, non-technical communication on project status.  
+* Maintained full-stack engineer responsibilities below.
 
 **Projects**
 
-* Ask An Expert video answers  
-  * Propose an architecture that will allow tutors to add video answers to questions on Wyzant’s Ask An Expert platform (think Yahoo\! Answers, but for Wyzant subjects). These videos get uploaded to YouTube and embedded in Ask An Expert answers  
-  * Ensure to make use of already-existing Wyzant services as much as possible in this architecture, coordinating with service owners to discuss possible changes needed to support this functionality  
-* Landing pages redesign  
-  * Work closely with the design team to plan and execute a full redesign of our SEO landing pages. The hand-off process happened via Invision  
-  * All changes executed with Rails partials, JS, SCSS, and Webpacker  
-* Landing pages ETL  
-  * Propose, build, and maintain an ETL process to manage which of our SEO landing pages are “live” at a given time  
-  * We had 2.5 million landing page records in a MySQL DB table, but only \~200k of the pages were considered valuable enough to be used in production
+* Proposed and built the architecture for Ask An Expert video answers (think Yahoo\! Answers, but for Wyzant subjects), reusing existing Wyzant services and coordinating with their owners wherever possible.  
+* Led a full redesign of our SEO landing pages with the design team, executed in Rails partials, JS, SCSS, and Webpacker.  
+* Built and maintained an ETL process to manage which of our 2.5 million SEO landing page records (only \~200k of which were valuable enough for production) were “live” at a given time.
 
 #### Full-stack & iOS Engineer
 
 **Responsibilities**
 
-* Build and maintain various parts of the Wyzant platform, ensuring quality by working closely with QA, unit testing, and monitoring  
-* Full stack with a lot of breadth\! Worked on everything from Rails controllers to ElasticSearch w/ Golang to Vue.js apps to native iOS  
-  * Landing pages: Go backend, rails frontend  
-  * Ask An Expert: Ruby on Rails  
-  * Tutor search API: Go and Elasticsearch  
-  * Online lessons tool: Vue.js, Marionette, Python  
-  * iOS app: Objective-C, early stages of migration to Swift  
-* Give task-based status updates to team leads, managers, or product managers  
-* Begin learning how to scope out larger projects and write quality cards and acceptance criteria
+* Built and maintained various parts of the Wyzant platform, ensuring quality through close work with QA, unit testing, and monitoring.  
+* Worked full stack across the whole platform — Go backend/Rails frontend for landing pages, Ruby on Rails for Ask An Expert, Go \+ Elasticsearch for the tutor search API, Vue.js/Marionette/Python for the online lessons tool, and Objective-C (early Swift migration) for iOS.  
+* Gave task-based status updates to team leads and PMs, and began learning how to scope larger projects and write quality cards and acceptance criteria.
 
 **Projects**
 
