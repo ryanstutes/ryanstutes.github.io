@@ -5,3 +5,7 @@ kramdown:
  auto_ids: true
  hard_wrap: false
  syntax_highlighter: rouge
+plugins:
+ - jekyll-optional-front-matter
+ - jekyll-titles-from-headings
+ - jekyll-default-layout
